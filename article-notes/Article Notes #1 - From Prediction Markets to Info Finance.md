@@ -22,3 +22,8 @@ Vitalik concludes that platforms like Polymarket are not just for betting; they 
 Vitalik believes that predicting elections is just the start for platforms like Polymarket. Info-finance solves trust problems. Sources of information are often biased so having a platform for betting on outcomes provides an incentivized way of getting more accurate polling.
 
 "The broader concept is that you can use finance as a way to align incentives in order to provide viewers with valuable information."
+
+TODO: Discuss the difference between prediciton marekt vs decision market
+TODO: Discuss what the value of decisions markets could bring and review the examples he provides.
+TODO: Discuss how decision markets can be used for DAOs and AIs
+
